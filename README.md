@@ -1,31 +1,56 @@
-# PicToVid
-Es un script en Python que convierte imágenes en un video `.mp4` usando OpenCV.
+🚀 Características
 
-## 🛠️ Requisitos
+🚀 Rápido y ligero: Funciona con Python 3.6+ y OpenCV.
 
-- Python 3.6+
-- OpenCV
+🎞️ Configurable: Define la extensión de las imágenes, los FPS y el nombre del archivo de salida.
 
-Instalación de dependencias:
+📂 Sencillo de usar: Solo coloca tus imágenes en la carpeta del script.
+
+📄 Open Source bajo licencia MIT.
+
+📦 Requisitos
+
+Python 3.6 o superior
+
+OpenCV
+
+🔧 Instalación de dependencias
 
 pip install -r requirements.txt
 
-📂 Cómo usar
+📂 Uso
 
-Coloca tus imágenes (por ejemplo, img1.png, img2.png, etc.) en la misma carpeta que el script.
+Coloca tus imágenes (ej. img1.png, img2.png, ...) en la misma carpeta que pictovid.py.
 
-Ejecuta el script: 
+Ejecuta el script:
 
 python pictovid.py
 
-Te pedirá:
+Cuando se solicite:
 
-La extensión de las imágenes (png, jpg, etc.)
+Extensión de las imágenes (png, jpg, ...)
 
-El número de FPS (frames por segundo)
+Número de FPS (frames por segundo)
 
-El nombre del archivo de salida (output.mp4 por defecto)
+Nombre del archivo de salida (por defecto output.mp4)
+
+Ejemplo de ejecución:
+
+$ python pictovid.py
+Extensión de imágenes: png
+FPS: 24
+Nombre del archivo de salida [output.mp4]: mi_video.mp4
+Procesando 30 imágenes... Listo: mi_video.mp4
+
+📁 Estructura del proyecto
+
+PicToVid/
+├── pictovid.py       # Script principal
+├── requirements.txt # Dependencias Python
+└── LICENSE          # Licencia MIT
 
 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+¡Contribuciones, sugerencias y estrellas son bienvenidas! ⭐
