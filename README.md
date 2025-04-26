@@ -1,36 +1,36 @@
 ....🚀 Características....
 
-🚀 Rápido y ligero
+- Rápido y ligero
 
-🎞️ Configurable
+- Configurable
 
-📂 Sencillo de usar
+- Sencillo de usar
 
 ....📦 Requisitos....
 
-Python 3.6 o superior
+- Python 3.6 o superior
 
-OpenCV
+- OpenCV
 
 .....🔧 Instalación de dependencias....
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ....📂 Uso....
 
-Coloca tus imágenes (ej. img1.png, img2.png, ...) en la misma carpeta que pictovid.py.
+- Coloca tus imágenes (ej. img1.png, img2.png, ...) en la misma carpeta que pictovid.py.
 
-Ejecuta el script:
+- Ejecuta el script:
 
-python pictovid.py
+    "python pictovid.py"
 
-Cuando se solicite:
+- Cuando se solicite:
 
-Extensión de las imágenes (png, jpg, ...)
+    · Extensión de las imágenes (png, jpg, ...)
 
-Número de FPS (frames por segundo)
+    · Número de FPS (frames por segundo)
 
-Nombre del archivo de salida (por defecto output.mp4)
+    · Nombre del archivo de salida (por defecto output.mp4)
 
 ....Ejemplo de ejecución:....
 
