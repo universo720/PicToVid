@@ -32,13 +32,6 @@
 
     · Nombre del archivo de salida (por defecto output.mp4)
 
-....📁 Estructura del proyecto....
-
-PicToVid/
-├── pictovid.py       # Script principal
-├── requirements.txt # Dependencias Python
-└── LICENSE          # Licencia MIT
-
 ....📄 Licencia....
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
