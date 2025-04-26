@@ -32,14 +32,6 @@
 
     · Nombre del archivo de salida (por defecto output.mp4)
 
-....Ejemplo de ejecución:....
-
-$ python pictovid.py
-Extensión de imágenes: png
-FPS: 24
-Nombre del archivo de salida [output.mp4]: mi_video.mp4
-Procesando 30 imágenes... Listo: mi_video.mp4
-
 ....📁 Estructura del proyecto....
 
 PicToVid/
