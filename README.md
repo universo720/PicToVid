@@ -1,24 +1,22 @@
-🚀 Características
+....🚀 Características....
 
-🚀 Rápido y ligero: Funciona con Python 3.6+ y OpenCV.
+🚀 Rápido y ligero
 
-🎞️ Configurable: Define la extensión de las imágenes, los FPS y el nombre del archivo de salida.
+🎞️ Configurable
 
-📂 Sencillo de usar: Solo coloca tus imágenes en la carpeta del script.
+📂 Sencillo de usar
 
-📄 Open Source bajo licencia MIT.
-
-📦 Requisitos
+....📦 Requisitos....
 
 Python 3.6 o superior
 
 OpenCV
 
-🔧 Instalación de dependencias
+.....🔧 Instalación de dependencias....
 
 pip install -r requirements.txt
 
-📂 Uso
+....📂 Uso....
 
 Coloca tus imágenes (ej. img1.png, img2.png, ...) en la misma carpeta que pictovid.py.
 
@@ -34,7 +32,7 @@ Número de FPS (frames por segundo)
 
 Nombre del archivo de salida (por defecto output.mp4)
 
-Ejemplo de ejecución:
+....Ejemplo de ejecución:....
 
 $ python pictovid.py
 Extensión de imágenes: png
@@ -42,14 +40,14 @@ FPS: 24
 Nombre del archivo de salida [output.mp4]: mi_video.mp4
 Procesando 30 imágenes... Listo: mi_video.mp4
 
-📁 Estructura del proyecto
+....📁 Estructura del proyecto....
 
 PicToVid/
 ├── pictovid.py       # Script principal
 ├── requirements.txt # Dependencias Python
 └── LICENSE          # Licencia MIT
 
-📄 Licencia
+....📄 Licencia....
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
